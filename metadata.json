@@ -1,0 +1,8 @@
+{
+  "name": "HandyPro Marketplace Blueprint",
+  "description": "A comprehensive product and technical blueprint for a high-end, blue-collar service marketplace, featuring accessibility-first designs for non-tech-savvy workers and AI-assisted job scoping.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
